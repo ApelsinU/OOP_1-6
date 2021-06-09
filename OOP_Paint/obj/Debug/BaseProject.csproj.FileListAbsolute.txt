@@ -1,0 +1,6 @@
+D:\University\СЕМ_4\ООПТиСП\OOP_Paint\obj\Debug\BaseProject.csprojAssemblyReference.cache
+D:\University\СЕМ_4\ООПТиСП\OOP_Paint\obj\Debug\BaseProject.Archiver.resources
+D:\University\СЕМ_4\ООПТиСП\OOP_Paint\obj\Debug\BaseProject.FigureParameters.resources
+D:\University\СЕМ_4\ООПТиСП\OOP_Paint\obj\Debug\BaseProject.Paint.resources
+D:\University\СЕМ_4\ООПТиСП\OOP_Paint\obj\Debug\BaseProject.Properties.Resources.resources
+D:\University\СЕМ_4\ООПТиСП\OOP_Paint\obj\Debug\BaseProject.csproj.GenerateResource.cache
